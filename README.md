@@ -53,3 +53,5 @@ MIT License
 
 💡 開発者より
 このプロジェクトは、ゲームの基本サイクル（初期化・入力・更新・描画・終了）を学ぶのに最適な教材です。DxLibの「裏画面描画（ScreenFlip）」を用いたダブルバッファリングの実装例としても活用いただけます。
+
+<img width="797" height="636" alt="スクリーンショット 2026-05-05 112456" src="https://github.com/user-attachments/assets/91391de6-541f-4266-8446-7bfd9a12229c" />
